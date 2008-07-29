@@ -16,7 +16,7 @@ sphere:send[[
 ]]
 end
 
-print(os.clock())
+print(os.clock()) -- small change to test the commit list
 
 table.foreach(sphere.environment, print)
 
